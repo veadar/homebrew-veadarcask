@@ -1,4 +1,4 @@
-class 'fullscreen-text-slideshow' < Cask
+cask :v1 => 'fullscreen-text-slideshow' do
   version '1.1.2'
   url 'https://github.com/veadar/fullscreen-text-slideshow/releases/download/v#{version}/fullscreen.text.slideshow.app.zip'
   homepage 'https://github.com/veadar/fullscreen-text-slideshow'
