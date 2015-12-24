@@ -3,5 +3,5 @@ cask :v1 => 'fullscreen-text-slideshow' do
   url "https://github.com/veadar/fullscreen-text-slideshow/releases/download/v#{version}/fullscreen.text.slideshow.app.zip"
   homepage 'https://github.com/veadar/fullscreen-text-slideshow'
   sha256 'cd907590527451239f0f131f9ec2e89d84d48d3fa49b5a4da3618046ff3516dc'
-  link 'fullscreen text slideshow.app'
+  app 'fullscreen text slideshow.app'
 end
