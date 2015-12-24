@@ -1,6 +1,6 @@
 # homebrew-veadarcask
 
-My Casks:
+##My Casks
 
 * Applications
     * fullscreen text slideshow
@@ -10,3 +10,7 @@ My Casks:
     * markdownlet
 * Fonts
     * [プログラミング用フォント Ricty](https://github.com/yascentur/Ricty)
+
+##Install
+
+`brew tap veadar/veadarcask`
