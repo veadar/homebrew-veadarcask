@@ -8,6 +8,8 @@
     * LadioManager
     * PoorSelect
     * markdownlet
+    * Lyric Controller
+    * KindleStrip
 * Fonts
     * [プログラミング用フォント Ricty](https://github.com/yascentur/Ricty)
 
