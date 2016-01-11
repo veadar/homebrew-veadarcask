@@ -1,4 +1,4 @@
-cask :v1 => 'kindlestrip' do
+cask 'kindlestrip' do
   version '1.36'
   url "http://www.mobileread.com/forums/attachment.php?attachmentid=124070&d=1402607241"
   homepage 'http://www.mobileread.com/forums/showthread.php?t=96903'

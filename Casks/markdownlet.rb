@@ -1,4 +1,4 @@
-cask :v1 => 'markdownlet' do
+cask 'markdownlet' do
   version '1.0.3'
   url "https://github.com/veadar/markdownlet/releases/download/#{version}/markdownlet.app.zip"
   homepage 'https://github.com/veadar/markdownlet'

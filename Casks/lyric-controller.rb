@@ -1,4 +1,4 @@
-cask :v1 => 'lyric-controller' do
+cask 'lyric-controller' do
   version '1'
   url "https://github.com/veadar/Lyric-Controller/releases/download/v#{version}/Lyric.Controller.app.zip"
   homepage 'https://github.com/veadar/Lyric-Controller'

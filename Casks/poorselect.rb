@@ -1,4 +1,4 @@
-cask :v1 => 'poorselect' do
+cask 'poorselect' do
   version '0.2'
   url "https://github.com/veadar/PoorSelect/releases/download/v#{version}/PoorSelect_ignore-case.app.zip"
   homepage 'https://github.com/veadar/PoorSelect'

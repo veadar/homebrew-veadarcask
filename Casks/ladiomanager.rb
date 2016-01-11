@@ -1,4 +1,4 @@
-cask :v1 => 'ladiomanager' do
+cask 'ladiomanager' do
   version '0.0.17'
   url "http://gien.nm.land.to/LadioManager/download.php?file=LadioManager-#{version}.dmg"
   homepage 'http://gien.nm.land.to/LadioManager/'
