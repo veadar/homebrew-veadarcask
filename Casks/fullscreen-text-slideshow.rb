@@ -1,7 +1,7 @@
 cask 'fullscreen-text-slideshow' do
-  version '1.1.2'
+  version '1.1.3'
   url "https://github.com/veadar/fullscreen-text-slideshow/releases/download/v#{version}/fullscreen.text.slideshow.app.zip"
   homepage 'https://github.com/veadar/fullscreen-text-slideshow'
-  sha256 'cd907590527451239f0f131f9ec2e89d84d48d3fa49b5a4da3618046ff3516dc'
+  sha256 '8c7664fe2e6f305b238170fa9e90fe9daa0450ca11064c69126804db7f183048'
   app 'fullscreen text slideshow.app'
 end
