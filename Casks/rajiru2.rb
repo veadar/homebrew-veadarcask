@@ -1,7 +1,7 @@
 cask 'rajiru2' do
-  version '1.2'
+  version '1.3'
   url "https://github.com/veadar/rajiru2/releases/download/v#{version}/rajiru2.app.zip"
   homepage 'https://github.com/veadar/rajiru2'
-  sha256 '48fec4cd15cd5a1506014afb2e9abf4d22c55c867bed96f3588577a66c6a3af9'
+  sha256 '4b7c138bc65e45aa82cd4ea8e9ea3666a1e092d26875e38b53dfe223a8263cdf'
   app 'rajiru2.app'
 end
